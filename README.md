@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamBhargavaBolla
 - 👀 I’m interested in Challenges/Puzzles/Problem-Solving
-- 🌱 I’m currently learning Python and Advanced SQL techniques
+- 🌱 I’m currently learning Python, Advanced SQL techniques, Azure
 - 💞️ I’m looking to collaborate on Learning Python
 - 📫 How to reach me +91 9492214484 or iambhargavabolla@gmail.com
 
