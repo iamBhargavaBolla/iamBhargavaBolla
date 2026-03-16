@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamBhargavaBolla
 - 👀 I’m working as a Business Intelligence Analyst with 7 years of experience in Analytics.
-- 🌱 I’m currently learning Python, Advanced SQL techniques, Azure
+- 🌱 I’m currently learning Python, LLMs, Agents, Advanced SQL techniques.
 - 💞️ I’m looking to collaborate on Learning Python
 - 📫 How to reach me on iambhargavabolla@gmail.com
 
